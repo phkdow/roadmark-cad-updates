@@ -1,0 +1,13 @@
+{
+  "format": 2,
+  "appId": "com.hobby.roadmarkcad",
+  "version": "0.4.20",
+  "platform": "win32",
+  "arch": "x64",
+  "electron": "44.9.0",
+  "file": "app-0.4.20.asar",
+  "size": 19752300,
+  "sha512": "c7342fa648a8f2b99483be316f19bda30c00fd7134ef86cf0728d295227b3c9eb0693bc4c38c83e1ea051b3db023dad613e75fce18eb559be17df31c259efbcc",
+  "made": "2026-10-24T20:42:27.599Z",
+  "notes": "ヘルプタブ（更新確認・更新履歴・バージョン情報・不具合報告）を追加。更新のお知らせを自動で表示。更新に失敗したときは自動で元の版に戻し、理由を表示します。"
+}
