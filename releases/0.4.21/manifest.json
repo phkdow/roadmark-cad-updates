@@ -1,0 +1,13 @@
+{
+  "format": 2,
+  "appId": "com.hobby.roadmarkcad",
+  "version": "0.4.21",
+  "platform": "win32",
+  "arch": "x64",
+  "electron": "44.9.0",
+  "file": "app-0.4.21.asar",
+  "size": 19753265,
+  "sha512": "02c6e726b4ff679cf72e52848de79d088f0d981287229da8404276d190a0fbf6bd40f6625be3a9fad5103d3db6404e9db41dbe5ecc94f6a6546ccbc2337e86fe",
+  "made": "2026-10-24T22:52:23.362Z",
+  "notes": "大きい図面（20万図形級）を開いたときの最初の全体表示を約22%速くしました。内部の画面回帰テストの安定性も改善しました。"
+}
