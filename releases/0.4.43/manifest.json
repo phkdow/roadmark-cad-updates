@@ -1,0 +1,13 @@
+{
+  "format": 2,
+  "appId": "com.hobby.roadmarkcad",
+  "version": "0.4.43",
+  "platform": "win32",
+  "arch": "x64",
+  "electron": "44.9.0",
+  "file": "app-0.4.43.asar",
+  "size": 25635708,
+  "sha512": "4f8b10cab70d46e5188d3ced2b3fd1b85515976f41aefd74a0174e16ace24b297153891462e180109291bf1edeebd3d46ea9744720ba1e01b2a2d2e6ec6b5059",
+  "made": "2026-10-31T23:09:00.417Z",
+  "notes": "・中身の作りを整理しました（作図画面・作図コマンド・修正コマンドの処理を、コマンドや役割ごとのファイルに分けました）。操作や見た目は前の版と同じです。"
+}
