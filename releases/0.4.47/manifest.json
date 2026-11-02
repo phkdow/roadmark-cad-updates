@@ -1,0 +1,13 @@
+{
+  "format": 2,
+  "appId": "com.hobby.roadmarkcad",
+  "version": "0.4.47",
+  "platform": "win32",
+  "arch": "x64",
+  "electron": "44.9.0",
+  "file": "app-0.4.47.asar",
+  "size": 25741866,
+  "sha512": "f24169fb99b500e8bf53d3e088193df9cbd5dd97910392a3f48cceef2f2b3dc885b65362a120ad72edad6e8af261bdd2f11e9b7e7e12001b4be1b6f33c6c7205",
+  "made": "2026-11-02T07:54:47.596Z",
+  "notes": "・寸法記入などで画面の左に寸法設定や画層のパネルが出たときに、図面が右へずれないようにしました。図面は画面上の同じ位置のままで、左側がパネルの裏に隠れるだけになります。"
+}
