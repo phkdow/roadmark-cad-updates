@@ -1,0 +1,13 @@
+{
+  "format": 2,
+  "appId": "com.hobby.roadmarkcad",
+  "version": "0.4.57",
+  "platform": "win32",
+  "arch": "x64",
+  "electron": "44.9.0",
+  "file": "app-0.4.57.asar",
+  "size": 38789979,
+  "sha512": "33574ef9c7da2699eeda48d9dd3ca547b3541726f0d17663ad7c6b73383ea471cc76b2da6c5d0990adee83ba0d3adbcc0771a07916c2f5d41c2d2803d7e121cf",
+  "made": "2026-11-07T04:07:25.467Z",
+  "notes": "・同梱フォントを「RoadMarkFont_v1」（0.4.56 の形）と、作り直した「RoadMarkFont_v2」の2つにしました。v2 は、英数字の幅と間隔、漢字・かなの大きさ、線の太さを整え、半角カタカナ（濁点・半濁点も）に対応し、「.」「,」「:」などの点を大きくしました。文字の編集パネルのフォント一覧から選べます。\r\n・0.4.56 で作った図面の「RoadMarkFont」は、これまでどおり v1 の形で表示されます。"
+}
